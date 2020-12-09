@@ -1,0 +1,4 @@
+C:\Users\Ruby\source\repos\RedMDelivery\output\Client.net.dll
+C:\Users\Ruby\source\repos\RedMDelivery\Client\obj\Debug\Client.net.dll
+C:\Users\Ruby\source\repos\RedMDelivery\output\fxmanifest.lua
+C:\Users\Ruby\source\repos\RedMDelivery\Client\obj\Debug\Client.csprojAssemblyReference.cache
